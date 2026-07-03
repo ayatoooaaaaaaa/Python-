@@ -1,0 +1,6 @@
+{
+  "name": "PyBot Runner",
+  "description": "Python and Discord Bot running environment on Android. Write scripts, manage modules, and run bots in the background with a foreground service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
